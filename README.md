@@ -4,6 +4,8 @@
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-orange)
 ![Privacy](https://img.shields.io/badge/Privacy-100%25%20Offline-green)
 
+[🇹🇷 Türkçe README için tıklayın](./README_TR.md)
+
 A powerful, **fully offline** AI assistant that combines real-time voice interaction, computer vision, and local LLM intelligence. Designed to run entirely on your local machine, ensuring complete privacy and zero data leakage.
 
 ## 🌟 Key Features (V5)
