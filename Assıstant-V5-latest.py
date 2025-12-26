@@ -51,7 +51,7 @@ WAKE_WORDS = [
     # Turkish wake words
     "Den Den","Denden","benden","senden", 
     "yardımcı", "dinle","hey","merhaba","selam","asistan","abi","kanka",
-    "uyansana", "bakar mısın", "pardon", "alo", "ordamısın"
+    "uyansana", "bakar mısın", "pardon", "alo", "ordamısın",
     
     # English wake words
     "then then","then in","computer", "assistant", "system", "wake up",
@@ -515,8 +515,6 @@ def handle_llm_with_image(text):
 if __name__ == "__main__":
     print("🚀 Assistant started")
     print(f"💡 Say one of these: {WAKE_WORDS}")
-    print("🔴 Press 'e' in camera window to exit")
-    
     threading.Thread(target=camera_thread, daemon=True).start()
     threading.Thread(target=wake_word_listener, daemon=True).start()
     threading.Thread(target=mic_listener, daemon=True).start()
