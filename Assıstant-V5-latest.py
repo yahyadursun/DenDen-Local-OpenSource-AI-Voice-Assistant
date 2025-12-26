@@ -55,8 +55,7 @@ WAKE_WORDS = [
     
     # English wake words
     "then then","then in","computer", "assistant", "system", "wake up",
-    "hi assistant","jarvis",
-    
+    "hi assistant","jarvis","hello assistant","hello",    
 ]
 
 # Words to interrupt/stop the assistant

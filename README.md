@@ -10,7 +10,7 @@ A powerful, **fully offline** AI assistant that combines real-time voice interac
 
 *   **100% Local & Private:** No data is sent to the cloud. Powered by [Ollama](https://ollama.com) and local models.
 *   **Real-time Voice Interaction:**
-    *   **Wake Word Detection:** Uses `Vosk` for offline, low-latency wake word listening (e.g., "Den Den", "Jarvis").
+    *   **Wake Word Detection:** Uses `Vosk` for offline, low-latency wake word listening (e.g., "Den Den", "Hello",).
     *   **Speech-to-Text:** High-accuracy transcription using `faster-whisper`.
     *   **Text-to-Speech:** Natural sounding voice via local TTS pipelines.
 *   **Vision Capabilities 👁️:** Can see and analyze the world through your webcam. Ask "What is this?" or "Look at this" to trigger visual analysis.
@@ -66,8 +66,8 @@ ollama pull gemma3
 
 ### Step 2: Clone Repository
 ```bash
-git clone https://github.com/yourusername/local-opensource-ai-assistant.git
-cd local-opensource-ai-assistant
+git clone https://github.com/yahyadursun/DenDen-Local-OpenSource-AI-Voice-Assistant.git
+cd DenDen-Local-OpenSource-AI-Voice-Assistant
 ```
 
 ### ❗ Step 3: Create a Virtual Environment (Crucial)
