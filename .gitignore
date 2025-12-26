@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Tooling
+.vscode/
+.idea/
+
+# Large Models (Download manually)
+vosk-model-*/

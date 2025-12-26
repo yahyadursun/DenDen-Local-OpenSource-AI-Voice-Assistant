@@ -1,0 +1,11 @@
+opencv-python
+numpy
+sounddevice
+soundfile
+torch
+vosk
+faster-whisper
+transformers
+langchain-ollama
+langchain-community
+pillow
