@@ -1,4 +1,4 @@
-# Den Den - Local OpenSource AI Voice Assistant (V5) 🤖
+# Den Den - Local OpenSource AI Voice Assistant (V5)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-orange)
